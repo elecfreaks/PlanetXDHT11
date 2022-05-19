@@ -1,5 +1,5 @@
-#ifndef _PlanetXDHT11_H_
-#define _PlanetXDHT11_H_
+#ifndef _PLANETXDHT11_H_
+#define _PLANETXDHT11_H_
 
 #include <DHT.h>
 #include "RJPins.h"
